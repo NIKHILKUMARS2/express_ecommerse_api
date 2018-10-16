@@ -1,0 +1,24 @@
+{
+  "name": "ecommerseapi",
+  "version": "1.0.0",
+  "description": "api for ecommerse website like facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "helmet": "^3.14.0",
+    "http": "0.0.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "mongoose": "^5.2.8",
+    "pino": "^5.7.0",
+    "shortid": "^2.2.13"
+  }
+}
